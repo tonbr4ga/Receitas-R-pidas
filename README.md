@@ -1,1 +1,1 @@
-# Receitas-R-pidas
+# Receitas-Rápidas
